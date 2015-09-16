@@ -1,0 +1,8 @@
+C:\Users\ddimitrov003\Documents\wallet-app\JSONWebAPI\JSONWebAPI\JSONWebAPI\obj\Debug\JSONWebAPI.csprojResolveAssemblyReference.cache
+C:\Users\ddimitrov003\Documents\wallet-app\JSONWebAPI\JSONWebAPI\JSONWebAPI\bin\JSONWebAPI.dll
+C:\Users\ddimitrov003\Documents\wallet-app\JSONWebAPI\JSONWebAPI\JSONWebAPI\bin\JSONWebAPI.pdb
+C:\Users\ddimitrov003\Documents\wallet-app\JSONWebAPI\JSONWebAPI\JSONWebAPI\bin\JsonServices.dll
+C:\Users\ddimitrov003\Documents\wallet-app\JSONWebAPI\JSONWebAPI\JSONWebAPI\bin\JsonServices.Web.dll
+C:\Users\ddimitrov003\Documents\wallet-app\JSONWebAPI\JSONWebAPI\JSONWebAPI\bin\Newtonsoft.Json.dll
+C:\Users\ddimitrov003\Documents\wallet-app\JSONWebAPI\JSONWebAPI\JSONWebAPI\obj\Debug\JSONWebAPI.dll
+C:\Users\ddimitrov003\Documents\wallet-app\JSONWebAPI\JSONWebAPI\JSONWebAPI\obj\Debug\JSONWebAPI.pdb

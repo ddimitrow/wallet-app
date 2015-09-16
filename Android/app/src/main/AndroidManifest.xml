@@ -16,6 +16,22 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".LoginActivity"
+            android:label="@string/title_activity_login" >
+        </activity>
+        <activity
+            android:name=".UserDetailsActivity"
+            android:label="@string/title_activity_user_details" >
+        </activity>
+        <activity
+            android:name=".CreateUserActivity"
+            android:label="@string/title_activity_create_user" >
+        </activity>
+        <activity
+            android:name=".PaymentDetailsActivity"
+            android:label="@string/title_activity_payment_details" >
+        </activity>
     </application>
 
 </manifest>
